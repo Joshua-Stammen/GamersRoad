@@ -6,6 +6,7 @@
                     <div class="card-header">Reviews</div>
 
                     <div class="card-body">
+                        <h3>Fallout 76</h3>
                     </div>
                 </div>
             </div>
@@ -20,3 +21,9 @@
         }
     }
 </script>
+
+<style>
+    .card-body{
+        background-color:lightblue;
+    }
+</style>

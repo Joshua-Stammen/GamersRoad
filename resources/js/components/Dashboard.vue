@@ -6,6 +6,7 @@
                     <div class="card-header">Dashboard</div>
 
                     <div class="card-body">
+                        <h1>Welcome! </h1>
                     </div>
                 </div>
             </div>
